@@ -166,7 +166,7 @@ pip install -r requirements.txt
 Run each GUI tool directly:
 
 ```bash
-cd tools
+cd python
 python CharacteristicCurve.py
 python DarkCurrent.py
 python TemporalNoise.py
@@ -176,6 +176,7 @@ python SpatialNoise.py
 Run digital pixel sensor-specific tools:
 
 ```bash
+cd python/DPS
 python DPS_CharacteristicCurve.py
 python DPS_DarkProperties.py
 ```
