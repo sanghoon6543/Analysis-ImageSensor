@@ -195,21 +195,6 @@ The tools use:
 * imageio
 * Tkinter
 
-Example `requirements.txt`:
-
-```text
-numpy
-pandas
-scipy
-matplotlib
-opencv-python
-imageio
-```
-
-Tkinter is usually included with standard Python distributions, but it may need to be installed separately depending on the operating system and Python environment.
-
----
-
 ## Example Workflow
 
 ### Dark Current Analysis
