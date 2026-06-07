@@ -144,9 +144,9 @@ Analysis_ImageSensor/
 │   ├── SpatialNoise.py
 │   ├── TemporalNoise_FrameStability.py
 │   └── DPS/
-│      ├── CSEMConfig.py
-│      ├── CSEM_CharacteristicCurve.py
-│      └── CSEM_DarkProperties.py
+│      ├── DPSConfig.py
+│      ├── DPS_CharacteristicCurve.py
+│      └── DPS_DarkProperties.py
 ├── docs/
 │   └── gui_screenshots/
 └── sample_data/
